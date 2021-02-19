@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dungeon-tile", "game.vcxproj", "{3C0D173C-82A1-43AB-8E9C-DE3F0067AD59}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "32blit", "..\vs\32blit\32blit.vcxproj", "{280015A3-83D7-416F-A181-7CF88BCCE12F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "32blit", "..\32blit-beta\vs\32blit\32blit.vcxproj", "{280015A3-83D7-416F-A181-7CF88BCCE12F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "32blit-sdl", "..\vs\32blit-sdl\32blit-sdl.vcxproj", "{85DB89B5-DEA0-4429-B41E-0CAA7DB907BA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "32blit-sdl", "..\32blit-beta\vs\32blit-sdl\32blit-sdl.vcxproj", "{85DB89B5-DEA0-4429-B41E-0CAA7DB907BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

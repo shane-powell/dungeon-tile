@@ -1,4 +1,3 @@
-#pragma once
 #include "32blit.hpp"
 
 //uint8_t packed_data[] = {

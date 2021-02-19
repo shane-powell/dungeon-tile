@@ -1,0 +1,7 @@
+Formatter: c_source
+Files:
+    C:\Users\kenja\Documents\GitHub\Microsoft\dungeon-tile\assets.hpp
+    C:\Users\kenja\Documents\GitHub\Microsoft\dungeon-tile\assets.cpp
+Assets:
+    sprites_data: 1611
+Total size: 1611
