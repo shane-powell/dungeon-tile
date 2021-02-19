@@ -1,0 +1,10 @@
+title: Dungeon Tile
+description: Dungeon Crawler Prototype
+author: Shane Powell
+splash:
+  file: assets/splash.png
+icon:
+  file: assets/icon.png
+version: v0.0.1
+category: game # game, demo, utility, ...
+url: https://github.com/shane-powell/dungeon-tile
