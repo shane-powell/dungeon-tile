@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 3.8)
 project (dungeon-tile)
-set(32BLIT_PATH "../32blit-beta/" CACHE PATH "Path to 32blit.cmake")
-include (${32BLIT_PATH}/32blit.cmake)
+find_package (32BLIT CONFIG REQUIRED PATHS ../32blit-sdk)
 blit_executable (dungeon-tile dungeon-tile.cpp)
 blit_assets_yaml (dungeon-tile assets.yml)
 blit_metadata (dungeon-tile metadata.yml)
